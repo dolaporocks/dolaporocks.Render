@@ -1,0 +1,25 @@
+{
+  "users": [
+
+    {
+      "DisplayName" :  "Bilbo Baggins",
+      "EmailAddress" : "bilbo@domain.ca",
+      "Username" : "bbagins",
+      "Password" : "123456"
+    },
+
+    {
+      "DisplayName" :  "Sanusi Cassano",
+      "EmailAddress" : "sanusi@isp.ca",
+      "Username" : "ssanusi",
+      "Password" : "321654"
+    },
+
+    {
+      "DisplayName" :  "Pippen Took",
+      "EmailAddress" : "pippen@durhamcollege.ca",
+      "Username" : "ptook",
+      "Password" : "987654"
+    }
+  ]
+}

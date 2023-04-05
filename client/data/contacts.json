@@ -1,0 +1,22 @@
+{
+  "contacts": [
+
+    {
+      "FullName" :  "Peter Parker",
+      "ContactNumber" : "416-555-5555",
+      "EmailAddress" : "pparker@domain.com"
+    },
+
+    {
+      "FullName" :  "James Bond",
+      "ContactNumber" : "246-235-4334",
+      "EmailAddress" : "jbond@domain.com"
+    },
+
+    {
+      "FullName" :  "Milly Bob",
+      "ContactNumber" : "647-215-7676",
+      "EmailAddress" : "mbob@domain.com"
+    }
+  ]
+}
